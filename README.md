@@ -1,0 +1,2 @@
+# O32_CompareCurrAndHis
+投资管理系统O32当前表和历史表表结构比对
